@@ -1,4 +1,8 @@
 Hello.
 How are you?
 Hoping you are fine.
+<<<<<<< HEAD
 What are you doing?
+=======
+Have you eaten yet?
+>>>>>>> aea0547eab7916d5efe574fab36136d4a433e116
